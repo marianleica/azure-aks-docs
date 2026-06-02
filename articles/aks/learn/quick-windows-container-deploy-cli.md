@@ -46,7 +46,7 @@ This quickstart assumes a basic understanding of Kubernetes concepts. For more i
   az extension update --name aks-preview
   ```
 
-### Register the `AksWindows2025Preview` feature flag
+### Registering the `AksWindows2025Preview` feature flag
 
 1. Register the `AksWindows2025Preview` feature flag using the [`az feature register`][az-feature-register] command.
 
